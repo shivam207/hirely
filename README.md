@@ -1,3 +1,3 @@
-# hirely
+# Hirely
 
-Two Wheelers service with Home-Pickup and Delivery
+Two Wheelers Home-Pickup and Delivery Repair Services
